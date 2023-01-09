@@ -13,7 +13,7 @@ The admins can login into the admin panel using their username and password.
 ![image](https://user-images.githubusercontent.com/103503993/211371398-a771839f-e8ef-41a2-b2e6-ea1de3593c81.png)
 
 
-![image](https://user-images.githubusercontent.com/103503993/211371463-9baecf98-0741-406a-a73a-9eb17b1cd231.png)
+
 
 ![image](https://user-images.githubusercontent.com/103503993/211371511-e993554f-de4f-4457-b6dc-98464f424c8a.png)
 
